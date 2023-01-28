@@ -1,0 +1,24 @@
+Lucky Pairs (Public Contest: CodeRush- X)
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+Problem Statement
+A pair is called lucky if its sum is even and positive. Given three numbers find if there exists a lucky pair or not.
+Input
+The only line contains three integers a1, a2, a3
+
+Constraints:
+-109 <= a1, a2, a3 <= 109
+Output
+Print "YES" without quotes if there exists a lucky pair otherwise print "NO" without quotes.
+Example
+Sample Input 1:
+23 32 12
+
+Sample Output 1:
+YES
+
+Sample Input 2:
+1 -1 2
+
+Sample Output 2:
+NO
